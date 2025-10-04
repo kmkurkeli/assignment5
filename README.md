@@ -16,3 +16,4 @@ This uses nested for loops because the table is two dimensional.
 The outer loop goes through each row from 1 to 10. 
 The inner loop goes through each column from 1 to 10. 
 Together they print a grid where each product is in the right spot.
+AI used For help with debugging code, Syntax explanation and certain instructions for Github
